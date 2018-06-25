@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "195965175692",
+    "firebase_url": "https://course-management-system-6ad3a.firebaseio.com",
+    "project_id": "course-management-system-6ad3a",
+    "storage_bucket": "course-management-system-6ad3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195965175692:android:61ff52c753aa18a8",
+        "android_client_info": {
+          "package_name": "ca.dal.csci3130.coursesmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195965175692-223a8ji2r5b4r6fbjjnqc5bvtaiqoalk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.dal.csci3130.coursesmanagementsystem",
+            "certificate_hash": "316638d453a3dab20e4bc7f105ae4230d5ad976e"
+          }
+        },
+        {
+          "client_id": "195965175692-dcrvpiuphu8jhth0bjm2qmh5eud6glq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.dal.csci3130.coursesmanagementsystem",
+            "certificate_hash": "0c416cbfba278e0df8f41396d55507eeb88e7d8b"
+          }
+        },
+        {
+          "client_id": "195965175692-3gvhmkke4ehm56s6l0hfdbgk1sv5ekfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.dal.csci3130.coursesmanagementsystem",
+            "certificate_hash": "ded61e2bf0d01110b2960f25428073703b568cae"
+          }
+        },
+        {
+          "client_id": "195965175692-vk2kqi9moj07kpv44mmav6ndpvcnl9d2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "195965175692-vk2kqi9moj07kpv44mmav6ndpvcnl9d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhGFtcfaEbXUBaEK5ki9wc6i6f5E2M9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195965175692-vk2kqi9moj07kpv44mmav6ndpvcnl9d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

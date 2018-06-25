@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Courses Management System</string>
+
+<array name ="Faculty">
+    <item>Arts</item>>
+    <item>ComputerScience</item>>
+    <item>Science</item>item>
+    <item>Commerce</item>>
+</array>array>
+
+</resources>
